@@ -14,5 +14,8 @@ A responsive portfolio website built with HTML and CSS and a bit of JAVASCRIPT.
 - CSS3
 - JavaScript
 
+## Live Demo
+https://toluwalaseoolofinjana-portfolio.netlify.app/
+
 ## Author
 Toluwalase
